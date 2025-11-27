@@ -1,9 +1,9 @@
 ---
 image: "@assets/astrogon-star.svg"
 imageAlt: Astrogon logo
-title: Astrogon
-content: A rapidly-customizable template for a blog, documentation, and more.
+title: Edwin Eddy Johan Machaca Condori
+content: Ayaviri-Samán, Melgar, Puno, Perú
 button:
-  label: See the Code
-  link: https://github.com/astrogon/astrogon
+  label: email
+  link: machaca1999@gmail.com
 ---
