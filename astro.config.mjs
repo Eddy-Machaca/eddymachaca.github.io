@@ -12,11 +12,13 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://eddymachaca.github.io",
+  site: "https://eddymachaca.github.io"
+/*
   base: "/",
   trailingSlash: "ignore",
   prefetch: {
     prefetchAll: true
+    */
   },
   adapter: cloudflare(),
   integrations: [react(), sitemap(), tailwind({
